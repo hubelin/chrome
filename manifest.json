@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Destressifier",
+  "version": "1.0",
+  "description": "Hides the news with negative content",
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/i/moments*"],
+      "js": ["./main.js"]
+    }
+  ]
+}
+
+
+
