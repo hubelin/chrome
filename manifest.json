@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Destressifier",
+  "name": "Detoxifier",
   "version": "1.0",
   "description": "Hides the news with negative content",
   "content_scripts": [
@@ -10,6 +10,3 @@
     }
   ]
 }
-
-
-
