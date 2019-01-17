@@ -6,7 +6,7 @@
 
 > Remove terrible news from your Twitter Moments page to prevent ruining your day!
 
-Have you ever gone on Twitter to look at funny or informative content - only to stumble upon Twitter's Moment page and receive news related to terrible events happening around the world that you wish you never saw?
+**Have you ever gone on Twitter to look at funny or informative content - only to stumble upon Twitter's Moment page and receive news related to terrible events happening around the world that you wish you never saw?**
 
 ![moment](https://raw.githubusercontent.com/hubelin/chrome/master/assets/TwitterMoment.jpg)
 
